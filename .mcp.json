@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "ue-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "--min-release-age=0",
+        "ue-mcp@latest",
+        "C:/Users/bidbi/Documents/Unreal Projects/Bioswitch/Bioswitch.uproject"
+      ]
+    }
+  }
+}
